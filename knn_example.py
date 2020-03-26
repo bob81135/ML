@@ -1,4 +1,4 @@
-from sklearn import datasets, svm, metrics
+from sklearn import datasets, metrics
 from sklearn.neighbors import KNeighborsClassifier
 
 digits = datasets.load_digits()
